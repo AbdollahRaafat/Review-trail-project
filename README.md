@@ -1,5 +1,23 @@
-# FCC Test Suite Template
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+# Trail-Project
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+![screenshot](images/Portfolio.PNG)
+
+This is one of the trail projects.
+
+## Built With
+
+- Html & Css
+
+
+## Get a copy
+
+- Prepare a local directory. 
+- Open terminal.
+- Clone this project by the command `git clone URL/repository_name.git`.
+- Open `index.html` in your local browser.
+
+## Author
+
+- GitHub: [AbdollahRaafat](https://github.com/AbdollahRaafat)
+- LinkedIn: [AbdollahRaafat](https://www.linkedin.com/in/abdollah-raafat-886059221/)

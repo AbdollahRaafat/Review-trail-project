@@ -61,11 +61,11 @@ h1 {
 
 #projects {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   height: 100vh;
   background-color: #45567d;
   text-align: center;
-  align-items: center;
+  align-items: baseline;
   justify-content: center;
 }
 
